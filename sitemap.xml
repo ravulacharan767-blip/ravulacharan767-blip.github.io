@@ -1,22 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
+  <!-- Homepage -->
   <url>
     <loc>https://ravulacharan767-blip.github.io/</loc>
   </url>
 
+  <!-- Financial Calculators -->
   <url>
-    <loc>https://ravulacharan767-blip.github.io/about.html</loc>
+    <loc>https://ravulacharan767-blip.github.io/emi.html</loc>
   </url>
 
   <url>
-    <loc>https://ravulacharan767-blip.github.io/age.html</loc>
+    <loc>https://ravulacharan767-blip.github.io/sip.html</loc>
   </url>
 
   <url>
-    <loc>https://ravulacharan767-blip.github.io/basic.html</loc>
+    <loc>https://ravulacharan767-blip.github.io/loan.html</loc>
   </url>
 
+  <url>
+    <loc>https://ravulacharan767-blip.github.io/discount.html</loc>
+  </url>
+
+  <url>
+    <loc>https://ravulacharan767-blip.github.io/gst.html</loc>
+  </url>
+
+  <url>
+    <loc>https://ravulacharan767-blip.github.io/mortgage.html</loc>
+  </url>
+
+  <url>
+    <loc>https://ravulacharan767-blip.github.io/income-tax.html</loc>
+  </url>
+
+  <url>
+    <loc>https://ravulacharan767-blip.github.io/compound-interest.html</loc>
+  </url>
+
+  <!-- Health Calculators -->
   <url>
     <loc>https://ravulacharan767-blip.github.io/bmi.html</loc>
   </url>
@@ -26,31 +49,20 @@
   </url>
 
   <url>
-    <loc>https://ravulacharan767-blip.github.io/emi.html</loc>
-  </url>
-
-  <url>
-    <loc>https://ravulacharan767-blip.github.io/gst.html</loc>
-  </url>
-
-  <url>
-    <loc>https://ravulacharan767-blip.github.io/income-tax.html</loc>
+    <loc>https://ravulacharan767-blip.github.io/pregnancy.html</loc>
   </url>
 
   <url>
     <loc>https://ravulacharan767-blip.github.io/ideal-weight.html</loc>
   </url>
 
+  <!-- Math Calculators -->
   <url>
-    <loc>https://ravulacharan767-blip.github.io/length.html</loc>
+    <loc>https://ravulacharan767-blip.github.io/scientific.html</loc>
   </url>
 
   <url>
-    <loc>https://ravulacharan767-blip.github.io/loan.html</loc>
-  </url>
-
-  <url>
-    <loc>https://ravulacharan767-blip.github.io/mortgage.html</loc>
+    <loc>https://ravulacharan767-blip.github.io/basic.html</loc>
   </url>
 
   <url>
@@ -58,27 +70,37 @@
   </url>
 
   <url>
-    <loc>https://ravulacharan767-blip.github.io/pregnancy.html</loc>
-  </url>
-
-  <url>
-    <loc>https://ravulacharan767-blip.github.io/privacy.html</loc>
+    <loc>https://ravulacharan767-blip.github.io/fraction.html</loc>
   </url>
 
   <url>
     <loc>https://ravulacharan767-blip.github.io/ratio.html</loc>
   </url>
 
+  <!-- Date Calculators -->
   <url>
-    <loc>https://ravulacharan767-blip.github.io/scientific.html</loc>
+    <loc>https://ravulacharan767-blip.github.io/age.html</loc>
   </url>
 
   <url>
-    <loc>https://ravulacharan767-blip.github.io/sip.html</loc>
+    <loc>https://ravulacharan767-blip.github.io/date-difference.html</loc>
   </url>
 
   <url>
-    <loc>https://ravulacharan767-blip.github.io/speed.html</loc>
+    <loc>https://ravulacharan767-blip.github.io/date-add-subtract.html</loc>
+  </url>
+
+  <url>
+    <loc>https://ravulacharan767-blip.github.io/countdown.html</loc>
+  </url>
+
+  <!-- Unit Converters -->
+  <url>
+    <loc>https://ravulacharan767-blip.github.io/length.html</loc>
+  </url>
+
+  <url>
+    <loc>https://ravulacharan767-blip.github.io/weight.html</loc>
   </url>
 
   <url>
@@ -86,7 +108,24 @@
   </url>
 
   <url>
-    <loc>https://ravulacharan767-blip.github.io/weight.html</loc>
+    <loc>https://ravulacharan767-blip.github.io/speed.html</loc>
+  </url>
+
+  <!-- Website Information -->
+  <url>
+    <loc>https://ravulacharan767-blip.github.io/about.html</loc>
+  </url>
+
+  <url>
+    <loc>https://ravulacharan767-blip.github.io/contact.html</loc>
+  </url>
+
+  <url>
+    <loc>https://ravulacharan767-blip.github.io/privacy.html</loc>
+  </url>
+
+  <url>
+    <loc>https://ravulacharan767-blip.github.io/disclaimer.html</loc>
   </url>
 
 </urlset>
